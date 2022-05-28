@@ -34,7 +34,7 @@ const firstUser = {
 const secondUser = {
     name: 'Wendy',
     gender: 'M',
-    age: 17,
+    age: 23,
     email: 'wendy@dingdong.com',
     favoriteColor: [
         'green', 'yellow', 'Grey'
